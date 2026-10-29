@@ -1,0 +1,24 @@
+# Node
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+*.db
+backend/sketchforce.db
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+
+*.tsbuildinfo
